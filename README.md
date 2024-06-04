@@ -22,7 +22,7 @@ Currently studying at 42 Paris, building C and C++ projects and infrastructure.
     </td>
     <td>
       <img src="https://github.com/3lsy/minishell/blob/master/docs/minishell.gif" alt="Project 2 GIF" width="100%" />
-      <p>UNIX shell</p>
+      <p>THE UNIX shell</p>
     </td>
   </tr>
     <tr align="center">
