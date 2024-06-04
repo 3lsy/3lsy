@@ -1,5 +1,9 @@
 <h1> Hello, I'm 3lsy! <img src="https://i.gifer.com/origin/cd/cd44334923c5a5d94e7cf4ab8f5f2f7f_w200.gif" width="70" /></h1>
 
+👋 I'm a developer with a passion for blockchain 🔗, AI 🤖, design 🎨, and software development. 
+
+Currently studying at 42 Paris, building C and C++ projects and infrastructure.
+
 ## Projects
 
 <table align="center">
