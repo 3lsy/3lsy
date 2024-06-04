@@ -1,4 +1,4 @@
-<h1> Hello, I'm 3lsy! <img src="https://i.gifer.com/origin/cd/cd44334923c5a5d94e7cf4ab8f5f2f7f_w200.gif" width="70" /></h1>
+<h1> <img src="https://i.gifer.com/origin/cd/cd44334923c5a5d94e7cf4ab8f5f2f7f_w200.gif" width="70" /> Hello, I'm 3lsy!<img src="https://i.gifer.com/origin/cd/cd44334923c5a5d94e7cf4ab8f5f2f7f_w200.gif" width="70" /></h1>
 
 👋 I'm a developer with a passion for blockchain 🔗, AI 🤖, design 🎨, and software development. 
 
@@ -45,3 +45,6 @@ Currently studying at 42 Paris, building C and C++ projects and infrastructure.
   </tr>
 </table>
 
+## Stats
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=3lsy&layout=compact&theme=vision-friendly-dark)
