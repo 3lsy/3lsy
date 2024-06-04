@@ -1,3 +1,24 @@
+<h1> Hello, I'm 3lsy! <img src="https://i.gifer.com/origin/cd/cd44334923c5a5d94e7cf4ab8f5f2f7f_w200.gif" width="70" /></h1>
 
-![ducky2](https://user-images.githubusercontent.com/107457733/223814823-54421680-0424-49c7-883e-c59b10c61742.gif)
-![ball](https://user-images.githubusercontent.com/107457733/223821416-568f0489-84c0-434a-a836-ac8e39a8c88d.gif)
+## Projects
+
+<table align="center">
+  <tr align="center">
+    <td>
+      <h3><a href="https://github.com/3lsy/cub3d">cub3d</a></h3>
+    </td>
+    <td>
+      <h3><a href="https://github.com/3lsy/minishell">minishell</a></h3>
+    </td>
+  </tr>
+  <tr align="center">
+    <td width="50%">
+      <img src="https://github.com/3lsy/cub3d/blob/master/docs/cub3D.gif" alt="Project 1 GIF" width="100%"/>
+      <p align=center>3D Ray-Caster game in C</p>
+    </td>
+    <td>
+      <img src="https://github.com/3lsy/minishell/blob/master/docs/minishell.gif" alt="Project 2 GIF" width="100%" />
+      <p>UNIX shell</p>
+    </td>
+  </tr>
+</table>
